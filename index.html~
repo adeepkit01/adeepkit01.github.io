@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
+  <title>Ankit Deepak - Portfolio</title>
+
+  <!-- CSS  -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+</head>
+<body>
+  <nav class="white" role="navigation">
+    <div class="nav-wrapper container">
+      <a id="logo-container" href="#" class="brand-logo">Ankit Deepak</a>
+      <ul class="right hide-on-med-and-down">
+        <li><a href="https://in.linkedin.com/in/ankit-deepak-a81a03b6">LinkedIn</a></li>
+        <li><a href="https://www.facebook.com/ankit.deepak.14">Facebook</a></li>
+        <li><a href="https://plus.google.com/+AnkitDeepakwolf1">Google+</a></li>
+      </ul>
+
+      <ul id="nav-mobile" class="side-nav">
+        <li><a href="https://in.linkedin.com/in/ankit-deepak-a81a03b6">LinkedIn</a></li>
+        <li><a href="https://www.facebook.com/ankit.deepak.14">Facebook</a></li>
+        <li><a href="https://plus.google.com/+AnkitDeepakwolf1">Google+</a></li>
+      </ul>
+      <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
+    </div>
+  </nav>
+
+  <div id="index-banner" class="parallax-container">
+    <div class="section no-pad-bot">
+      <div class="container">
+        <br><br>
+        <h1 class="header center teal-text text-lighten-2">About Me</h1>
+               <div class="round" ><img src="https://avatars2.githubusercontent.com/u/7664386?v=3&s=400" ></div> 
+        <div class="row center">
+          <h5 class="header col s12 light">I am computer science student of National Institute of Technology Karnataka, who wants to dive in streams of bits of technology around us and increase the volume of this stream from the sweat of my brow. To more about me, check out my resume. </h5>
+        </div>
+        <div class="row center">
+          <a href="Ankit Deepak.pdf" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Resume</a>
+        </div>
+        
+        <br><br>
+
+      </div>
+    </div>
+    <div class="parallax"><img src="background1.jpg" alt="Unsplashed background img 1"></div>
+
+  </div>
+ 
+
+  <div class="container">
+     <h1 class="header center brown-text text-lighten-2">My Projects</h1>
+    <div class="section">
+     
+      <!--   Icon Section   -->
+      <div class="row">
+        <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center brown-text"><i class="material-icons">shuffle</i></h2>
+            <h5 class="center">Random Number Generator</h5>
+
+            <p class="light"></p>
+          </div>
+        </div>
+
+        <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center brown-text"><i class="material-icons">code</i></h2>
+            <h5 class="center">Java-Python Based IDE</h5>
+
+            <p class="light"></p>
+          </div>
+        </div>
+
+        <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center brown-text"><i class="material-icons">credit_card</i></h2>
+            <h5 class="center">Renting Website</h5>
+
+            <p class="light"></p>
+          </div>
+        </div>
+ </div>
+   <div class="row">
+        <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center brown-text"><i class="material-icons">settings_input_antenna</i></h2>
+            <h5 class="center">DHCP for NS3</h5>
+
+            <p class="light"></p>
+          </div>
+        </div>
+
+      <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center brown-text"><i class="material-icons">settings_remote</i></h2>
+            <h5 class="center">Experimentation on ORBIT testbed</h5>
+
+            <p class="light"></p>
+          </div>
+        </div>
+
+<div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center brown-text"><i class="material-icons">invert_colors</i></h2>
+            <h5 class="center">Visual Cryptography</h5>
+
+            <p class="light"></p>
+          </div>
+        </div>
+       </div>
+<div class="row">
+        <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center brown-text"><i class="material-icons">replay</i></h2>
+            <h5 class="center">Detailed Study of Akaros</h5>
+
+            <p class="light"></p>
+          </div>
+        </div>
+
+      <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center brown-text"><i class="material-icons">picture_in_picture</i></h2>
+            <h5 class="center">Operating System Using COSMOS</h5>
+
+            <p class="light"></p>
+          </div>
+        </div>
+
+<div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center brown-text"><i class="material-icons">android</i></h2>
+            <h5 class="center">Symptom Checker</h5>
+
+            <p class="light"></p>
+          </div>
+        </div>
+       </div>
+
+<div class="row">
+        <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center brown-text"><i class="material-icons">library_books</i></h2>
+            <h5 class="center">A Parallel Dynamic Approach for Data Analysis</h5>
+
+            <p class="light"></p>
+          </div>
+        </div>
+
+      <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center brown-text"><i class="material-icons">library_books</i></h2>
+            <h5 class="center">A Detailed Survey of Security Operating Systems</h5>
+
+            <p class="light"></p>
+          </div>
+        </div>
+
+<div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center brown-text"><i class="material-icons">library_books</i></h2>
+            <h5 class="center">A Genetic Algorithm Based Optimisation for Multicore Systems</h5>
+
+            <p class="light"></p>
+          </div>
+        </div>
+       </div>
+    </div>
+  </div>
+
+
+  <div class="parallax-container valign-wrapper">
+    <div class="section no-pad-bot">
+      <div class="container">
+        <div class="row center">
+          <h2 class="header col s12 teal-text light">My Summer Internship 2015</h5>
+        </div>
+      </div>
+    </div>
+    <div class="parallax"><img src="background2.jpg" alt="Unsplashed background img 2"></div>
+  </div>
+
+  <div class="container">
+    <div class="section">
+
+      <div class="row">
+        <div class="col s12 center">
+          <h4>MOOG India</h4>
+          <p class="left-align light">In Summer of 2015, I interned at Moog Technology Center Bangalore to build a embedded operating system for a TEGRA Jetson K1 board to use the cores effectively.</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+
+  <div class="parallax-container valign-wrapper">
+    <div class="section no-pad-bot">
+      <div class="container">
+        <div class="row center">
+          <h2 class="header col s12 teal-text light">My Campus Life</h2>
+        </div>
+      </div>
+    </div>
+    <div class="parallax"><img src="background3.jpg" alt="Unsplashed background img 3"></div>
+  </div>
+<div class="row">
+<div class="col s12 m4">
+          <div class="icon-block">
+            <h4 class="center brown-text">Treasurer of Web Enthusiasts' Club NITK</h4>
+        
+            <p class="light"></p>
+          </div>
+        </div>
+<div class="col s12 m4">
+          <div class="icon-block">
+<h4 class="center brown-text"></h4>
+        
+            <p class="light"></p>
+          </div>
+        </div>
+<div class="col s12 m4">
+          <div class="icon-block">
+            <h4 class="center brown-text">Executive Member of IE NITK</h4>
+        
+            <p class="light"></p>
+          </div>
+        </div>
+</div>
+
+  <footer class="page-footer teal">
+    <div class="container">
+      <div class="row">
+        <div class="col l6 s12">
+          <h5 class="white-text">Thank You!!!</h5>
+          <p class="grey-text text-lighten-4">Thank you for visiting my website. I am trying to improve this site and will love to read your feedback. Please write your feed and suggestion to </p> <a href="mailto:adadeepak8@gmail.com" class="brown-text">Ankit Deepak</a>
+
+
+        </div>
+        
+        <div class="col l3 s12">
+          <h5 class="white-text">Connect</h5>
+          <ul>
+            <li><a href="https://in.linkedin.com/in/ankit-deepak-a81a03b6">LinkedIn</a></li>
+            <li><a href="https://www.facebook.com/ankit.deepak.14">Facebook</a></li>
+            <li><a href="https://plus.google.com/+AnkitDeepakwolf1">Google+</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="footer-copyright">
+      <div class="container">
+      Made by <a class="brown-text text-lighten-3" href="http://materializecss.com">Materialize</a>
+      </div>
+    </div>
+  </footer>
+
+
+  <!--  Scripts-->
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script src="js/materialize.js"></script>
+  <script src="js/init.js"></script>
+
+  </body>
+
+</html>
