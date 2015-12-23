@@ -37,7 +37,7 @@
         <h1 class="header center teal-text text-lighten-2">About Me</h1>
                <div class="round" ><img src="https://avatars2.githubusercontent.com/u/7664386?v=3&s=400" ></div> 
         <div class="row center">
-          <h5 class="header col s12 light">I am computer science student of National Institute of Technology Karnataka, who wants to dive in streams of bits of technology around us and increase the volume of this stream from the sweat of my brow. To more about me, check out my resume. </h5>
+          <h5 class="header col s12 light">I am a computer science student of National Institute of Technology Karnataka, who wants to dive in streams of bits of technology around us and increase the volume of these streams from the sweat of my brow. To know more about me, check out my resume. </h5>
         </div>
         <div class="row center">
           <a href="Ankit Deepak.pdf" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Resume</a>
@@ -63,7 +63,7 @@
             <h2 class="center brown-text"><i class="material-icons">shuffle</i></h2>
             <h5 class="center">Random Number Generator</h5>
 
-            <p class="light"></p>
+            <p class="light">A random number generator coded in Java, C and Python <a href="rng.html" class="blue-text">Read more</a></p>
           </div>
         </div>
 
@@ -72,7 +72,7 @@
             <h2 class="center brown-text"><i class="material-icons">code</i></h2>
             <h5 class="center">Java-Python Based IDE</h5>
 
-            <p class="light"></p>
+            <p class="light">A java based IDE which runs on top of a python backend, can be deployed in a local area network with linux server <a href="ide.html" class="blue-text">Read more</a></p>
           </div>
         </div>
 
@@ -81,7 +81,7 @@
             <h2 class="center brown-text"><i class="material-icons">credit_card</i></h2>
             <h5 class="center">Renting Website</h5>
 
-            <p class="light"></p>
+            <p class="light">A Django based website for a customer to customer renting portal <a href="ide.html" class="blue-text">Read more</a></p>
           </div>
         </div>
  </div>
@@ -91,7 +91,7 @@
             <h2 class="center brown-text"><i class="material-icons">settings_input_antenna</i></h2>
             <h5 class="center">DHCP for NS3</h5>
 
-            <p class="light"></p>
+            <p class="light">NS3 had no DHCP implemented. I implemented the DHCP modules (v4 and v6) in ns-3.24.1. The patch is under review.</p>
           </div>
         </div>
 
@@ -100,7 +100,7 @@
             <h2 class="center brown-text"><i class="material-icons">settings_remote</i></h2>
             <h5 class="center">Experimentation on ORBIT testbed</h5>
 
-            <p class="light"></p>
+            <p class="light">Transfered a video file over two nodes of the ORBIT testbed. <a href="ORBIT Report.pdf" class="blue-text">Read more</a></p>
           </div>
         </div>
 
@@ -109,7 +109,7 @@
             <h2 class="center brown-text"><i class="material-icons">invert_colors</i></h2>
             <h5 class="center">Visual Cryptography</h5>
 
-            <p class="light"></p>
+            <p class="light">Implemented Visual and Extended Visual Cryptography with and without Pixel Expansion</p>
           </div>
         </div>
        </div>
@@ -246,9 +246,9 @@
         <div class="col l3 s12">
           <h5 class="white-text">Connect</h5>
           <ul>
-            <li><a href="https://in.linkedin.com/in/ankit-deepak-a81a03b6">LinkedIn</a></li>
-            <li><a href="https://www.facebook.com/ankit.deepak.14">Facebook</a></li>
-            <li><a href="https://plus.google.com/+AnkitDeepakwolf1">Google+</a></li>
+            <li><a href="https://in.linkedin.com/in/ankit-deepak-a81a03b6" class="brown-text">LinkedIn</a></li>
+            <li><a href="https://www.facebook.com/ankit.deepak.14" class="brown-text">Facebook</a></li>
+            <li><a href="https://plus.google.com/+AnkitDeepakwolf1" class="brown-text">Google+</a></li>
           </ul>
         </div>
       </div>
