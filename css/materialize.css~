@@ -2135,16 +2135,12 @@ img.responsive-img, video.responsive-video {
     -webkit-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
     transform: translateX(-50%); }
-.parallax1 img {
-    display: none;
-    position: relative;
-    left: 50%;
-    bottom: 0;
-    min-width: 100%;
-    min-height: 100%;
-    -webkit-transform: translate3d(0, 0, 0);
-    transform: translate3d(0, 0, 0);
-    transform: translateX(-50%); }
+.parallax1-container {
+  position: relative;
+  overflow: hidden;
+  height: 500px; }
+
+
 
 .pin-top, .pin-bottom {
   position: relative; }
@@ -5443,8 +5439,9 @@ nav {
   nav a {
     color: #fff; }
   nav .nav-wrapper {
-    position: relative;
-    height: 100%; }
+    position: fixed;
+      width: 100%;
+    background-color: #fff; }
     nav .nav-wrapper i {
       display: block;
       font-size: 2rem; }
@@ -5777,9 +5774,9 @@ small {
      .round {
                 border-radius: 50%;
                 overflow: hidden;
-                width: 150px;
-                height: 150px;
-                left: 50%;
+                width: 350px;
+                height: 350px;
+                left: 30%;
                 margin: 0 auto
             }
             .round img {
@@ -5789,7 +5786,7 @@ small {
                   width: 100%; */
             min-width: 100%;
             min-height: 100%;
-            left: 50%;
+            left: 30%;
             margin: 0 auto
             }
     .card .card-image .card-title {
@@ -8433,6 +8430,9 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
 
 .picker--time .picker__button--clear:hover:before, .picker--time .picker__button--clear:focus:before {
   color: #ffffff; }
+
+ 
+
 
 /* ==========================================================================
    $DEFAULT-TIME-PICKER
