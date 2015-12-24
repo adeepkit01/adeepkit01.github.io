@@ -17,14 +17,16 @@
       <a id="logo-container" href="#" class="brand-logo">Ankit Deepak</a>
       <ul class="right hide-on-med-and-down">
         <li><a href="https://in.linkedin.com/in/ankit-deepak-a81a03b6">LinkedIn</a></li>
-        <li><a href="https://www.facebook.com/ankit.deepak.14">Facebook</a></li>
+        <li><a target="_blank" title="find us on Facebook" href="http://www.facebook.com/ankit.deepak.14"><img alt="follow me on facebook" src="//login.create.net/images/icons/user/facebook_30x30.png" border=0></a></li>
         <li><a href="https://plus.google.com/+AnkitDeepakwolf1">Google+</a></li>
+        <li><a href="https://github.com/adeepkit01">Github</a></li>
       </ul>
 
       <ul id="nav-mobile" class="side-nav">
         <li><a href="https://in.linkedin.com/in/ankit-deepak-a81a03b6">LinkedIn</a></li>
-        <li><a href="https://www.facebook.com/ankit.deepak.14">Facebook</a></li>
+        <li><a target="_blank" title="find us on Facebook" href="http://www.facebook.com/ankit.deepak.14"><img alt="follow me on facebook" src="//login.create.net/images/icons/user/facebook_30x30.png" border=0></a></li>
         <li><a href="https://plus.google.com/+AnkitDeepakwolf1">Google+</a></li>
+        <li><a href="https://github.com/adeepkit01">Github</a></li>
       </ul>
       <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
     </div>
@@ -137,7 +139,7 @@
             <h2 class="center brown-text"><i class="material-icons">android</i></h2>
             <h5 class="center">Symptom Checker</h5>
 
-            <p class="light"></p>
+            <p class="light">An android application which allows patients to check their symptoms against a database of diseases</p>
           </div>
         </div>
        </div>
@@ -148,7 +150,7 @@
             <h2 class="center brown-text"><i class="material-icons">library_books</i></h2>
             <h5 class="center">A Parallel Dynamic Approach for Data Analysis</h5>
 
-            <p class="light"></p>
+            <p class="light">A publication accepted by ICRCICN 2015, Kolkata, to be published in IEEE Xplore. The project tried to develop an efficient algorithm for software data analysis</p>
           </div>
         </div>
 
@@ -157,7 +159,7 @@
             <h2 class="center brown-text"><i class="material-icons">library_books</i></h2>
             <h5 class="center">A Detailed Survey of Security Operating Systems</h5>
 
-            <p class="light"></p>
+            <p class="light">The survey looked into different flavours of linux and other operating systems which aim to provided security to their users</p>
           </div>
         </div>
 
@@ -166,7 +168,7 @@
             <h2 class="center brown-text"><i class="material-icons">library_books</i></h2>
             <h5 class="center">A Genetic Algorithm Based Optimisation for Multicore Systems</h5>
 
-            <p class="light"></p>
+            <p class="light">This project aimed to optimise the round robin algorithm for better performance in multicore operating systems using genetic algorithm</p>
           </div>
         </div>
        </div>
@@ -214,7 +216,7 @@
           <div class="icon-block">
             <h4 class="center brown-text">Treasurer of Web Enthusiasts' Club NITK</h4>
         
-            <p class="light"></p>
+            <p class="light">I am the treasurer of Web Club NITK for the session 2015-16. Web Club NITK is a group of people who love code. <a href="http://webclub-nitk.github.io/index.html" class="blue-text">Find more about us</a></p>
           </div>
         </div>
 <div class="col s12 m4">
@@ -228,7 +230,7 @@
           <div class="icon-block">
             <h4 class="center brown-text">Executive Member of IE NITK</h4>
         
-            <p class="light"></p>
+            <p class="light">I joined the NITK Student Chapter of Institute of Engineer's in 2014. We are a group of people who are interested in deifferent fields. We are known for our versitality. <a href="http://ienitk.in/" class="blue-text">Find more about us</a></p>
           </div>
         </div>
 </div>
@@ -238,17 +240,24 @@
       <div class="row">
         <div class="col l6 s12">
           <h5 class="white-text">Thank You!!!</h5>
-          <p class="grey-text text-lighten-4">Thank you for visiting my website. I am trying to improve this site and will love to read your feedback. Please write your feed and suggestion to </p> <a href="mailto:adadeepak8@gmail.com" class="brown-text">Ankit Deepak</a>
+          <p class="grey-text text-lighten-4">Thank you for visiting my website. I am trying to improve this site and will love to read your feedback. Please write your feed and suggestion to <a href="mailto:adadeepak8@gmail.com" class="brown-text">Ankit Deepak</a></p> 
 
 
         </div>
         
+<div class="col l3 s12">
+          <h5 class="white-text"> </h5>
+          <p class="grey-text text-lighten-4"> </p> 
+
+
+        </div>
         <div class="col l3 s12">
           <h5 class="white-text">Connect</h5>
           <ul>
             <li><a href="https://in.linkedin.com/in/ankit-deepak-a81a03b6" class="brown-text">LinkedIn</a></li>
             <li><a href="https://www.facebook.com/ankit.deepak.14" class="brown-text">Facebook</a></li>
             <li><a href="https://plus.google.com/+AnkitDeepakwolf1" class="brown-text">Google+</a></li>
+            <li><a href="https://github.com/adeepkit01" class="brown-text">Github</a></li>
           </ul>
         </div>
       </div>
