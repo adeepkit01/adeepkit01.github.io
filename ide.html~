@@ -14,7 +14,7 @@
 <body>
   <nav class="white" role="navigation">
     <div class="nav-wrapper container">
-      <a id="logo-container" href="#" class="brand-logo">Ankit Deepak</a>
+      <a id="logo-container" href="index.html" class="brand-logo">Ankit Deepak</a>
       <ul class="right hide-on-med-and-down">
         <li><a href="https://in.linkedin.com/in/ankit-deepak-a81a03b6">LinkedIn</a></li>
         <li><a href="https://www.facebook.com/ankit.deepak.14">Facebook</a></li>
@@ -36,7 +36,7 @@
         <br><br>
         <h1 class="header center teal-text text-lighten-2">IDE</h1>
         <div class="row center">
-          <a href="https://github.com/adeepkit01/DCS/tree/master/IDE" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Github Link</a>
+          <a href="https://github.com/adeepkit01/DCS/tree/master/IDE" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Check it Out</a>
         </div>
       </div>
     </div>

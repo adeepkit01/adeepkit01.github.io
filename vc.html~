@@ -44,7 +44,7 @@
     <div class="parallax"><img src="vc.png" alt="Unsplashed background img 1"></div>
 
   </div>
-<p class="brown-text">This project utilises socket programming to form an integrated development environment in two parts. The front is made in Java because of its platform independence. The front needs to connect to a python backend. The software can execute C, C++, Java and python codes.</p>
+<p class="brown-text">The project achieved image hiding into shares using both visual cryptography and extended visual cryptography. The resultant shares can have expanded pixels or can be preprocessed with block replacement algorithms to avoid pixel expansion</p>
 <footer class="page-footer teal">
     <div class="container">
       <div class="row">
