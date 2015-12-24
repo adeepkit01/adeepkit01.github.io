@@ -64,9 +64,9 @@
         <div class="col s12 m4">
           <div class="icon-block">
             <h2 class="center brown-text"><i class="material-icons">shuffle</i></h2>
-            <h5 class="center brown-text">Random Number Generator</h5>
+            <h5 class="center">Random Number Generator</h5>
 
-            <p class="light brown-text">A random number generator coded in Java, C and Python <a href="rng.html" class="blue-text">Read more</a></p>
+            <p class="light">A random number generator coded in Java, C and Python <a href="rng.html" class="blue-text">Read more</a></p>
           </div>
         </div>
 
@@ -176,7 +176,7 @@
        </div>
     </div>
   </div>
-
+<a href="#" class="teal-text" id="fixedbutton">Top<i class="material-icons">navigation</i></a>
 
   <div class="parallax-container valign-wrapper">
     <div class="section no-pad-bot">
@@ -186,7 +186,7 @@
         </div>
       </div>
     </div>
-    <div class="parallax"><img src="background2.jpg" alt="Unsplashed background img 2"></div>
+    <div class="parallax"><img src="background2.jpg" alt="Unsplashed background img 1"></div>
   </div>
 
   <div class="container">

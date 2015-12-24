@@ -2130,7 +2130,7 @@ img.responsive-img, video.responsive-video {
     position: absolute;
     left: 50%;
     bottom: 0;
-    min-width: 100%;
+    min-width: 80%;
     min-height: 100%;
     -webkit-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
@@ -5077,6 +5077,8 @@ nav ul a span.badge {
   margin-left: -0.75rem;
   margin-right: -0.75rem; }
 
+
+
 .section {
   padding-top: 1rem;
   padding-bottom: 1rem; }
@@ -5439,9 +5441,8 @@ nav {
   nav a {
     color: #fff; }
   nav .nav-wrapper {
-    position: fixed;
-      width: 100%;
-    background-color: #fff; }
+    position: relative;
+    height: 100%; }
     nav .nav-wrapper i {
       display: block;
       font-size: 2rem; }
@@ -8452,6 +8453,12 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   background: #f2f2f2;
   padding: 0; }
 
+
+#fixedbutton {
+    position: fixed;
+    bottom: 0px;
+    right: 0px; 
+}
 @media (min-height: 40.125em) {
   .picker--time .picker__box {
     margin-bottom: 5em; } }
