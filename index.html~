@@ -176,7 +176,7 @@
        </div>
     </div>
   </div>
-<a href="#" class="brown-text" id="fixedbutton">Top<i class="material-icons">navigation</i></a>
+<a href="#" class="black-text" id="fixedbutton">Top<i class="material-icons">navigation</i></a>
 
   <div class="parallax-container valign-wrapper">
     <div class="section no-pad-bot">
@@ -203,7 +203,7 @@
     </div>
   </div>
 
-
+<a href="#" class="black-text" id="fixedbutton">Top<i class="material-icons">navigation</i></a>
   <div class="parallax-container valign-wrapper">
     <div class="section no-pad-bot">
       <div class="container">
