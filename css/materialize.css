@@ -2129,7 +2129,7 @@ img.responsive-img, video.responsive-video {
     display: none;
     position: absolute;
     left: 50%;
-    bottom: 30%;
+    bottom: -30%;
     min-width: 100%;
     min-height: 100%;
     -webkit-transform: translate3d(0, 0, 0);

@@ -42,7 +42,7 @@
       </div>
     </div>
  
-    <div class="parallax"><img src="b1.jpg" alt="Unsplashed background img 1"></div>
+    <div class="parallax"><img src="background1.jpg" alt="Unsplashed background img 1"></div>
 <br><br>
   </div> 
         <div class="row center">
@@ -54,11 +54,11 @@
     <div class="section no-pad-bot">
       <div class="container">
         <div class="row center">
-          <h2 class="header col s12 blue-text light">My Projects</h5>
+          <h1 class="header col s12 teal-text light">My Projects</h1>
         </div>
       </div>
     </div>
-    <div class="parallax"><img src="b3.jpg" alt="Unsplashed background img 1"></div>
+    <div class="parallax"><img src="git.png" alt="Unsplashed background img 1"></div>
   </div>
   <div class="container">
      
