@@ -44,15 +44,15 @@
     <div class="parallax"><img src="rng1.jpg" alt="Unsplashed background img 1"></div>
 
   </div>
-<p class="brown-text">The source of randomness available to a personal computer like laptops includes:</p>
+<p class="brown-text">The source of randomness available to a personal computer like laptop includes:</p>
 
 <ul class="brown-text">
-<li> The surrounding light and scene </li>
-<li> The surrounding sound or noise </li>
-<li> The TCP information for the network </li>
-<li> The RTT of a specific network, dependant on the congestion of the network </li> 
-<li> System time </li>
-<li> Scheduling delay over core or multicores </li>
+<li> > The surrounding light and scene </li>
+<li> > The surrounding sound or noise </li>
+<li> > The TCP information for the network </li>
+<li> > The RTT of a specific network, dependant on the congestion of the network </li> 
+<li> > System time </li>
+<li> > Scheduling delay over core or multicores </li>
 </ul>
 
 <p class="brown-text">The projects aims to extract randomness from all these factors to generate random 
@@ -63,7 +63,7 @@ are reduced to managable forms using hash functions like CWChash, PJWhash and SH
 
 hash. Also, all these methods takes some time, so using these process in an iteration can 
 
-be a time taking process, hence the project use these for generating a true random seed 
+be a time consuming process, hence the project use these for generating a true random seed 
 
 and using algorithm known as Blum Blum Shub to generate a series of random number. 
 
